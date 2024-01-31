@@ -1,0 +1,47 @@
+
+
+.pagepreview{
+    background-color: #d8dcdf;
+}
+
+.pagepreview-header{
+    text-align: center;
+    background-color: #8d8787;
+    position: sticky;
+    top: 5px;
+}
+
+.firstpage{
+    padding: 30px;
+    margin: 20px;
+    background-size: contain;
+    height: 425px;
+    width: auto;
+}
+.text1{
+    float: left;
+    font-size: 42px;
+}
+
+.text2{
+    float: right;
+    font-size: 42px;
+}
+
+.secondpage{
+    padding: 30px;
+    margin: 20px;
+    background-size: 100%;
+    float: left;
+}
+
+li{
+    display: inline-block;
+    box-sizing: content-box;
+    width: 200px;
+    padding: 10px;
+}
+
+#image2{
+    display: inline-block;
+}
